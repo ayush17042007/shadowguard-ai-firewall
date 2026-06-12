@@ -85,7 +85,7 @@ python main.py
 ![System Architecture](screenshots/system-architecture.png)
 
 ### Threat Monitoring Dashboard
-![Threat Monitoring Dashboard](screenshots/threat-monitoring-dashboard.png)
+![Threat Monitoring Dashboard](screenshots/Threat-Monitoring-Dashboard.png)
 
 ### Enterprise ROI Calculator
 ![Enterprise ROI Calculator](screenshots/enterprise-roi-calculator.png)
