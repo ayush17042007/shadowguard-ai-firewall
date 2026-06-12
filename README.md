@@ -81,7 +81,29 @@ python main.py
 
 ## Screenshots
 
-Add dashboard screenshots and attack detection examples here.
+### System Architecture
+![System Architecture](screenshots/system-architecture.png)
+
+### Threat Monitoring Dashboard
+![Threat Monitoring Dashboard](screenshots/threat-monitoring-dashboard.png)
+
+### Enterprise ROI Calculator
+![Enterprise ROI Calculator](screenshots/enterprise-roi-calculator.png)
+
+### Enterprise ROI Dashboard
+![Enterprise ROI Dashboard](screenshots/enterprise-roi-dashboard.png)
+
+### Live API Demo
+![Live API Demo](screenshots/demo1.png)
+
+### Prompt Injection Detection Demo
+![Prompt Injection Detection](screenshots/demo2.png)
+
+### Behavioral Audit Demo
+![Behavioral Audit](screenshots/demo3.png)
+
+### Security Validation Demo
+![Security Validation](screenshots/demo4.png)
 
 ## Author
 
