@@ -1,0 +1,11 @@
+# Shadow Guard Backend — Python 3.14 compatible
+# All packages ship pre-built wheels for Python 3.14 (no Rust/MSVC needed)
+# Install with: python -m pip install -r requirements.txt --only-binary=:all:
+fastapi>=0.115.0
+uvicorn>=0.30.0
+pydantic>=2.9.0
+pydantic-settings>=2.0.0
+sqlalchemy>=2.0.0
+python-dotenv>=1.0.0
+tenacity>=8.0.0
+groq>=0.9.0

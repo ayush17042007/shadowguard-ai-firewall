@@ -1,0 +1,26 @@
+# Development tooling
+.snowflake/
+.vercel/
+
+# Environment variables
+.env*.local
+.env
+.env.local
+shadow-guard-ai-firewall/backend/.env
+*.env
+
+# Common ignores
+node_modules
+.next/
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.db
+*.tsbuildinfo
+
+# Build files
+.next/
+*.tsbuildinfo
+
